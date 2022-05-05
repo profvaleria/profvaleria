@@ -1,10 +1,14 @@
 ### Olá, sou a Professora Valéria 👋
 
-<!-- Trabalho com o Componente Curricular de Pensamento Computacional
+##Trabalho com o Componente Curricular de Pensamento Computacional
 
-Leciono no Colégio Humberto de Guairaçá- Pr
+###Leciono no Colégio Humberto de Guairaçá- Pr
 
 [link](https://github.com/profvaleria/profvaleria/edit/main/README.md)
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 
 
 **profvaleria/profvaleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
